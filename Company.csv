@@ -1,4 +1,4 @@
-Company Code,mean_payment_days_AUG_2021,mean_payment_days_JUL_2021,mean_payment_days_JUN_2021,mean_payment_days_MAY_2021,mean_payment_days_APR_2021,mean_payment_days_MAR_2021,mean_payment_days_FEB_2021,mean_payment_days_JAN_2021,Average_Payment_Days,"('total_counts', '0')","('total_counts', '1-30')","('total_counts', '31-60')","('total_counts', '61-90')","('total_counts', '90+')",Have Risk or not
+Company Code,MPD_AUG_2021,MPD_JUL_2021,MPD_JUN_2021,MPD_MAY_2021,MPD_APR_2021,MPD_MAR_2021,MPD_FEB_2021,MPD_JAN_2021,Average_Payment_Days,"('total_counts', '0')","('total_counts', '1-30')","('total_counts', '31-60')","('total_counts', '61-90')","('total_counts', '90+')",Risk
 1001,0,0,0,0,0,8,0,0,8,0,1,0,0,0,0
 1001,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 1001,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
